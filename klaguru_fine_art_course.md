@@ -2,194 +2,203 @@
 
 ---
 
-## 🧱 1. Foundation Course (Core Course)
+## 🧱 1. Foundation Course (Main Course)
 **Mediums used:** Pencil, Charcoal, Pen  
-**Duration:** Recommended 3–4 months
+**Total Hours:** 215 Hours (1 Year) — *Teaching + Practice*  
+**MRP:** ₹60,000  
+**Offer Fee:** ₹25,000 (Best Price)  
+**Final Price:** ₹20,000 (Teaching Fee Only)
 
-### 🔹 Basics
-- 🎨 Introduction to Art & Fine Art
-- 👁️ Importance of Observation
+### 📚 Foundation Modules
+
+#### 🧩 Module 1: Basics (30 Hours)
+- 🎨 Introduction of Art & Fine Art
+- 👁️ Observation
+- 🖍️ Importance of Shading
 - 🖊️ Power of Lines (Gradation)
-- 📦 Box Shading & Freehand Mixing
+- 📦 Box Shading, Freehand Mixing
 - 💡 Light & Shadow
 - 🧊 Creating Volume
 - 🔲 Graph/Grid Drawing
 - 📐 Enlargement & Measurement
-- 🔍 Detailing & Accuracy
+- 🔍 Detailing
 
-### 🔹 Still Life
+#### 🍎 Module 2: Still Life (40 Hours)
 - 🔺 Basic Shapes
 - 🔄 Simplifying Complicated Shapes
-- ✍️ Shading Techniques
-- 🖍️ Pencil & Charcoal Stick Practice
+- ✍️ Drawing & Shading
+- 🖍️ Pencil & Charcoal Stick
 - ⚫ Black & White Techniques
 - 🌀 Doodling
-- 🧑‍🎨 Pencil Portrait
+- 👤 Pencil Portrait
 - 🖌️ Hatching
 - 🟡 Stippling
 
-### 🔹 Sketching
+#### ✏️ Module 3: Sketching (20 Hours)
 - 🚶 Stick Drawing
 - 🧱 Block Drawing
-- 🦴 Armature Drawing
+- 🦴 Armature
 - ✏️ Rough Sketching
 - ➖ Sketching Baseline
 - 🔁 Line of Action
 
-### 🔹 Perspective
+#### 🔭 Module 4: Perspective (22 Hours)
 - 🎯 1 to 5 Vanishing Points
 - 👁️ Eye Level
 - 🖼️ Pictorial Perspective
-- 🎨 Tonal Perspective
+- 🌗 Tonal Perspective
 
-### 🔹 Design Sense
+#### 🎨 Module 5: Design Sense (10 Hours)
 - ⚫⚪ Negative–Positive Space
 - 🧩 Composition
-- 🌈 5 Elements of Painting
-- 🎨 Color Sense / Theory
+- 🖼️ 5 Elements of Painting
+- 🌈 Color Sense / Theory
 
-### 🔹 Still Life (Advanced)
-- 🧴 Object Composition Practice
-- 🧺 Multi-object still life rendering *(Suggested)*
+#### 👤 Module 6: Portraits (35 Hours)
+- 📏 Face Proportion: Male / Female / Child / Old Age
+- 👁️ Eye, 👃 Nose, 👂 Ear, 👄 Lips
+- ✍️ Freehand Portrait
+- 💇 Hair Style, Texture & Volume
+- 🔄 Different Angles of Face
 
-### 🔹 Portraits
-- 🧑‍🤝‍🧑 Face Proportion: Male / Female / Child / Old Age
-- 👁️ Eye, 👃 Nose, 👂 Ear, 👄 Lips Studies
-- ✍️ Freehand Portraits
-- 💇 Hair Texture & Volume
-- 🔄 Different Face Angles
+#### 🧍 Module 7: Anatomy Study (25 Hours)
+- 🚻 Male/Female Body Proportion
+- ✋ Hands & Arms, Feet & Legs
+- 👤 Life Drawing
 
-### 🔹 Anatomy Study
-- 🧍 Male/Female Body Proportion
-- ✋ Hands, Arms, Feet, Legs
-- 🧑‍🎨 Life Drawing (Live Model / Reference-Based)
+#### 🧺 Module 8: Portrait & Still Life Advance (30 Hours)
+- 🧴 Composition Practice with Objects
 
 ---
 
-## 🖍️ 2. Medium-wise Short-Term Courses  
+## 🖍️ 2. Medium-wise Short-Term Courses (Total: 545 Hours)
 _All require completion of the Foundation Course._
 
-### 🎨 Dry Mediums
+### 🎨 Dry Mediums (5 Mediums)
 
-#### 🟦 Color Pencil Medium
+#### ⚫ Charcoal Medium (40 Hours)
+- 📦 Box Shading
+- ✍️ Freehand Mixing
+- 🔺 Basic Shapes
+- 🛠️ Tools Use
+- 🖼️ Still Life
+- 👨‍🎨 Live Artwork Practice
+- 👩‍🎨 Portraits
+
+#### 🟫 Glass Marking Pencil Medium (40 Hours)
+- 📦 Box Shading
+- ✍️ Freehand Mixing
+- 🔺 Basic Shapes
+- 🖼️ Still Life
+- 👨‍🎨 Live Artwork Practice
+- 👩‍🎨 Portraits
+
+#### 🟦 Color Pencil Medium (60 Hours)
 - 🎨 Color Box Shading
-- ✍️ Color Freehand Mixing
+- ✍️ Freehand Mixing
 - 📊 Volume, Tone, Shade Scale
 - 🔺 Basic Shapes
 - 🖼️ Color Still Life
-- 🧑‍🎨 Live Artworks Practice
+- 👨‍🎨 Live Artwork Practice
 - 👩‍🎨 Portraits
 
-#### 🟧 Oil Pastel Medium
+#### 🟧 Oil Pastel Medium (45 Hours)
 - 🎨 Color Box Shading
 - ✍️ Freehand Mixing
-- 🧰 Tool Usage
-- 🧱 Still Life
-- 👨‍🎨 Live Artworks Practice
-- 👩‍🎨 Portraits
-
-#### 🟪 Soft Pastel Medium
-- 🎨 Color Box Shading
-- ✍️ Freehand Mixing
-- 🛠️ Tool Handling
+- 🛠️ Tool Use
 - 🔺 Basic Shapes
-- 🎨 Still Life
-- 👨‍🎨 Live Artworks Practice
+- 🖼️ Color Still Life
+- 👨‍🎨 Live Artwork Practice
 - 👩‍🎨 Portraits
 
-#### ⚫ Charcoal Medium
+#### 🟪 Soft Pastel Medium (50 Hours)
+- 🎨 Color Box Shading
+- ✍️ Freehand Mixing
+- 🛠️ Tool Use
+- 🔺 Basic Shapes
+- 🖼️ Color Still Life
+- 👨‍🎨 Live Artwork Practice
+- 👩‍🎨 Portraits
+
+### 💧 Wet Mediums (5 Mediums)
+
+#### 🖋️ Ink (Black/Colored) Medium (40 Hours)
 - 📦 Box Shading
 - ✍️ Freehand Mixing
-- 🛠️ Tool Mastery
+- 🔺 Basic Shapes
 - 🖼️ Still Life
-- 👩‍🎨 Live Artworks Practice
-- 🧑‍🎨 Portraits
-
-#### 🟫 Glass Marking Pencil Medium
-- 📦 Box Shading
-- ✍️ Freehand Mixing
-- 🔺 Basic Shapes
-- 🎨 Still Life
-- 👨‍🎨 Live Artworks Practice
-- 👩‍🎨 Portraits
-- ✂️ Scratch Technique Exploration *(Suggested)*
-
-### 💧 Wet Mediums
-
-#### 🖋️ Ink (Black/Colored) Medium
-- 📦 Box Shading
-- ✍️ Freehand Mixing
-- 🧱 Still Life
 - 🌄 Landscapes
-- 🧑‍🎨 Portraits
-- 💧 Ink Wash Technique *(Suggested)*
-
-#### 💦 Watercolor Medium
-- 🎨 Color Theory & Mixing
-- 📦 Box Shading
-- ✍️ Freehand Mixing
-- 🔺 Basic Shapes
-- 🧱 Still Life
-- 🌄 Landscapes
-- 👩‍🎨 Live Artworks Practice
+- 👩‍🎨 Live Artwork Practice
 - 👨‍🎨 Portraits
-- 🌫️ Transparent vs Opaque Technique *(Suggested)*
 
-#### 🟥 Poster Color Medium
+#### 💦 Watercolor Medium (50 Hours)
 - 🎨 Color Theory & Mixing
 - 📦 Box Shading
+- ✍️ Freehand Mixing
 - 🔺 Basic Shapes
-- 🎨 Still Life
-- 🌄 Landscapes
-- 👨‍🎨 Live Artworks Practice
-- 👩‍🎨 Portraits
-- 🖌️ Flat vs Gradient Techniques *(Suggested)*
-
-#### 🟨 Acrylic Color Medium
-- 🎨 Color Theory & Mixing
-- 📦 Box Shading
-- ✍️ Texture Painting
 - 🖼️ Still Life
 - 🌄 Landscapes
-- 👩‍🎨 Portraits
-- 🔪 Knife/Spatula Work *(Optional)*
-- 🎭 Underpainting Techniques *(Suggested)*
+- 👩‍🎨 Live Artwork Practice
+- 👨‍🎨 Portraits
 
-#### 🟩 Oil Color Medium
+#### 🟥 Poster Color Medium (50 Hours)
 - 🎨 Color Theory & Mixing
-- 🧴 Layering Techniques (Fat over Lean)
-- 💧 Wet-on-Wet, Oil Reversal
 - 📦 Box Shading
-- 🧱 Still Life
+- ✍️ Freehand Mixing
+- 🔺 Basic Shapes
+- 🖼️ Still Life
 - 🌄 Landscapes
-- 🧑‍🎨 Portraits
-- ✨ Glazing & Impasto Techniques *(Suggested)*
+- 👩‍🎨 Live Artwork Practice
+- 👨‍🎨 Portraits
+
+#### 🟨 Acrylic Color Medium (60 Hours)
+- 🎨 Color Theory & Mixing
+- 📦 Box Shading
+- ✍️ Freehand Mixing
+- 🔺 Basic Shapes
+- 🖼️ Still Life
+- 🌄 Landscapes
+- 🎨 Texture Painting
+- 👩‍🎨 Live Artwork Practice
+- 👨‍🎨 Portraits
+- 🔪 Knife/Spatula Work *(Optional)*
+
+#### 🟩 Oil Color Medium (60 Hours)
+- 🎨 Color Theory & Mixing
+- 🧴 Oil Layer Techniques
+- 🔁 Reverse & Wet-on-Wet
+- 📦 Box Shading
+- ✍️ Freehand Mixing
+- 🔺 Basic Shapes
+- 🖼️ Still Life
+- 🌄 Landscapes
+- 👩‍🎨 Live Artwork Practice
+- 👨‍🎨 Portraits
 
 ---
 
-## 🧪 3. Mixed & Creative Mediums
-**Eligibility:** Foundation Course + All Mediums
-> *Only for full-course students to ensure proper base and experimentation capacity.*
+## 🧪 3. Mixed & Creative Medium (50 Hours)
+**Eligibility:** Foundation + All Mediums Completed  
+**Note:** *Only available for full-course students.*
 
-- 🧬 Mixed Media (2 or more mediums combined)
+- 🎨 Mixed Media (2 or More Mediums)
 - ✂️ Collage Work
 - 🔍 Mirror Work
 - 💨 Smoke Painting
-- 🌀 Marble Printing
+- 🌀 Marble Print
 - 🔪 Knife/Spatula Advanced Work
 - 🖼️ Glass Painting
 - ☕ Coffee Painting
-- 🖊️ Brush Pen Techniques
+- 🖊️ Brush Pen Work
 - 🧻 Bleeding Tissue Technique
-- 🎨 Experimental Art *(Suggested)*
 
 ---
 
-## ✅ Additional Suggestions for Entire Curriculum
+> ⏱️ **Note:** All durations include both *teaching* + *practice time*. Fees apply only to the teaching hours. Practice is guided but self-driven with feedback.
 
-1. 📈 **Assessment Points** — Beginner–Intermediate–Advanced evaluation rubrics *(Suggested)*
-2. 📓 **Art Journal Maintenance** — Every student maintains an art journal throughout *(Suggested)*
-3. 💬 **Live Practice & Feedback Sessions** — Every 15 days *(Suggested)*
-4. 🖼️ **Final Project / Art Exhibition** — Digital or physical gallery *(Suggested)*
-5. 🎓 **Career Guidance Module** — Portfolio building, college application, freelancing *(Suggested)*
+Let me know if you’d like:
+- PDF version
+- Printable brochure
+- Social media version
+- Website structure for course promotion
 
